@@ -1,0 +1,5 @@
+serial_allow_odm true
+serial_access_enabled true
+serial_access_check false
+local_config_enabled true
+valid_config true
